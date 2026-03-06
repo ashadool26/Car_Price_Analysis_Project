@@ -60,4 +60,4 @@ pip install numpy pandas matplotlib seaborn jupyter
 - Add automated tests and data validation checks
 
 ## Author
-Car Price Analysis Project
+**Ashadool Hassan**
